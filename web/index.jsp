@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title></title>
+    <title>Welcome</title>
   </head>
   <body>
-
+    The app is up and running.
   </body>
 </html>
